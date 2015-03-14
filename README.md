@@ -1,2 +1,1 @@
-# gittest dfdsfs
-Creating a new branch is quick & simple.hahahahah
+Creating a new branch is quick and simple
